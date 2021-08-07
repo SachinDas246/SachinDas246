@@ -1,5 +1,5 @@
 
-![cover](https://raw.githubusercontent.com/SachinDas246/SachinDas246/main/me.jpg)
+![cover](https://raw.githubusercontent.com/SachinDas246/SachinDas246/main/me.png)
 
 ### Hello World! 👋
 
